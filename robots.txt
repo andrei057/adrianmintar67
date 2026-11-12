@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://adrianmintar69.netlify.app/sitemap.xml
